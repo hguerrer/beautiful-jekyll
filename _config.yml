@@ -14,11 +14,11 @@ author: Harold Guerrero
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-#  About Me: I am a student of the master's degree in physics from the Universityof Puerto Rico at Mayagüez [(UPRM)](https://www.uprm.edu/portada/) and a CMS Experiment Collaborator, supervised by Dr. Sudir Malik.
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About Me: "I am a student of the master's degree in physics from the Universityof Puerto Rico at Mayagüez [(UPRM)](https://www.uprm.edu/portada/) and a CMS Experiment Collaborator, supervised by Dr. Sudir Malik."
+#  Resources:
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
+#  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
